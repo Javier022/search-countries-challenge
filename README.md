@@ -1,7 +1,8 @@
 # Desafío para Software Engineers
 
-Nombre postulante: [Javier Inay Hernández]
-Link a la app en producción: [https://country-search-challenge.herokuapp.com/]
+Nombre postulante: Javier I. Hernández
+
+Link a la app en producción: https://country-search-challenge.herokuapp.com/
 
 # Uso
 
